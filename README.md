@@ -63,26 +63,22 @@ Blog: http://www.ibmbigdatahub.com/blog/spark-based-machine-learning-capturing-w
 
 #Step 3. Get the data into DSX 
 
-1. Download (without uncompressing) some tweets from [here](https://www.dropbox.com/sh/82rrk8di2nouf0x/AAAIMc6J9rWpu08UBLhLbHXEa?dl=0). **Note: there is no need to uncompress the file, just download the tweets.gz file to your lap top.**
+1. Download (without uncompressing) some tweets from [here](https://www.dropbox.com/sh/82rrk8di2nouf0x/AAAIMc6J9rWpu08UBLhLbHXEa?dl=0) to your lap top. The tweets.gz file contains a 10% sample (using Twitter decahose API) of a 15 minute batch of the public tweets from December 23rd. The size of this file is 116MB (compression ratio is about 10 to 1).
 
-2. The tweets.gz file contains a 10% sample of a 15 minute batch of the public tweets from December 23rd. The weight of this file is 116MB (compression ratio is about 10 to 1).
-
-3. Go back to your recently created project on DSX and click on the add data assets + icon
+2. Go to your recently created project on DSX and click on the add data assets + icon
 
 >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/add-data-asset.png"/>
 
-4. Click on the Add data file
+3. Click on the Add data file and select the tweets.gz file from your lap top and click on open
 
 >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/add-file.png"/>
 
-5. Select the tweets.gz file from your lap top and click on open (or double-click the file)
-
->  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/select-file.png"/>
-
-6. Wait until the tweets are loaded 
+4. Wait until the file is loaded
 
 >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/data-loading.png"/>
 
  > Your tweets are now loaded in your object storage in the container associated to your project. If your project name is "Word2Vec for Text Data", the default container name is Word2VecforTextData (unless you change to a different name on Step 2, part 3).
+ 
+5.  
 
 #Step 4. Get the notebook
