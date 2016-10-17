@@ -33,11 +33,11 @@ Blog: http://www.ibmbigdatahub.com/blog/spark-based-machine-learning-capturing-w
 
 6. In the new page, write your email and click CONTINUE. 
 
->  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/enter-email.png"/>
+ >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/enter-email.png"/>
 
 7. Write your recently generated password and click on SIGN IN.
 
->  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/enter-password.png"/>
+ >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/enter-password.png"/>
 
 8. It will take a minute to create your account. When ready, click on Get Started.
 
@@ -49,15 +49,15 @@ Blog: http://www.ibmbigdatahub.com/blog/spark-based-machine-learning-capturing-w
 
 1. Click on the left hand side "hamburger" icon and then on My Projects to see a list of your projects. You should only see a default project.
 
->  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/my-projects.png"/>
+ >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/my-projects.png"/>
 
 2. Click on the create project icon on the top right of the project list. 
 
->  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/create-new-project.png"/>
+ >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/create-new-project.png"/>
 
 3. Type a name for yout project. For instance, "Word2Vec for Text Data". A Spark service and an object storage will be automatically selected as well as a container. A container is a directory on the object storage. Click on Create.
 
->  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/new-project.png"/>
+ >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/new-project.png"/>
 
  > You are now in your new project where you can create notebooks and data assets as well as add collaborators.
 
@@ -67,15 +67,15 @@ Blog: http://www.ibmbigdatahub.com/blog/spark-based-machine-learning-capturing-w
 
 2. Go to your recently created project on DSX and click on the add data assets + icon
 
->  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/add-data-asset.png"/>
+ >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/add-data-asset.png"/>
 
 3. Click on the Add data file and select the tweets.gz file from your lap top and click on open
 
->  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/add-file.png"/>
+ >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/add-file.png"/>
 
 4. Wait until the file is loaded
 
->  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/data-loading.png"/>
+ >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/data-loading.png"/>
 
  > Your tweets are now loaded in your object storage in the container associated to your project. If your project name is "Word2Vec for Text Data", the default container name is Word2VecforTextData (unless you change to a different name on Step 2, part 3).
  
