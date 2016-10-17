@@ -21,24 +21,29 @@ Blog: http://www.ibmbigdatahub.com/blog/spark-based-machine-learning-capturing-w
 
  > <img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/DSX Sign On.png">
 
-3.  If you have a Bluemix account you can click continue with Bluemix credentials, otherwise click create your Bluemix account and enter your email, then on the next page fill in the corresponding fields and click “Create Account”
+3. If you have a Bluemix account you can click continue with Bluemix credentials, otherwise click create your Bluemix account and enter your email. 
+
+4. You should get an email from "ibmacct" with your IBMid Confirmation code
+
+ >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/confirmation-code.png"/>
+
+5. Then, on the next page fill in the corresponding fields and click “Create Account”
 
  > <img src="https://github.com/ibmdataworks/datafirst/blob/master/appdeveloper/media/image3.png" width="624" height="300" />
 
-4.  You will see a page asking you to check your email for next steps. Check your email that you used to sign up for Bluemix
+6. In the new page, write your email and click CONTINUE. 
 
- > <img src="https://github.com/ibmdataworks/datafirst/blob/master/appdeveloper/media/image4.png" width="237" height="219" />
+>  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/enter-email.png"/>
 
-5.  Click on the “confirm your account” link
+5. Write your recently generated password and click on SIGN IN.
 
- > <img src="https://github.com/ibmdataworks/datafirst/blob/master/appdeveloper/media/image5.png" width="396" height="330" />
+>  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/enter-password.png"/>
 
-6.  Click the Log In button on the DSX landing page to sign in with your Bluemix credentials. Type in your Bluemix email address and password, then click Sign In.
+6. It will take a minute to create your account. When ready, click on Get Started.
 
+ > You are now in the Data Science Experience landing page. Your environment is automatically set up with at least one Apache Spark instance and at least 5 GB of object storage. From here you can create a new project, notebook, or connection. You can also explore any of the tutorials, videos, sample notebooks or articles in the community.
 
- > You are now in the Data Science Experience. Depending on the plan you chose, your environment is automatically set up with at least one Apache Spark instance and at least 5 GB of object storage. From here you can create a new project, notebook, or connection. You can also explore any of the tutorials, videos, sample notebooks or articles in the community.
-
- > <img src="https://github.com/ibmdataworks/datafirst/blob/master/datascientist/media/DSX%20Landing.png">
+>  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/landing.png"/>
 
 #Step 2. Get the data 
 
