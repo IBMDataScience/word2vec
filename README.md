@@ -63,10 +63,27 @@ Blog: http://www.ibmbigdatahub.com/blog/spark-based-machine-learning-capturing-w
 
 #Step 3. Get the data into DSX 
 
-1. Download some tweets from December 23rd [here](https://www.dropbox.com/sh/82rrk8di2nouf0x/AAAIMc6J9rWpu08UBLhLbHXEa?dl=0). **Note: there is no need to uncompress the file, just download the tweets.gz file to your lap top.**
+1. Download (without uncompressing) some tweets from [here](https://www.dropbox.com/sh/82rrk8di2nouf0x/AAAIMc6J9rWpu08UBLhLbHXEa?dl=0). **Note: there is no need to uncompress the file, just download the tweets.gz file to your lap top.**
 
-2. Load data into DSX
+2. The tweets.gz file contains a 10% sample of a 15 minute batch of the public tweets from December 23rd. The weight of this file is 116MB (compression ratio is about 10 to 1).
 
-#Step 4. Load the data into your object storage
+3. Go back to your recently created project on DSX and click on the add data assets + icon
 
-#Step 5. Get the notebook
+>  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/add-data-asset.png"/>
+
+4. Then click on the Add data file
+
+>  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/add-file.png"/>
+
+
+5. Select the tweets.gz file from your lap top and click on open (or double-click the file)
+
+>  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/select-file.png"/>
+
+6. Wait until the tweets are loaded 
+
+>  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/data-loading.png"/>
+
+ > Your tweets are now loaded in your object storage in the container associated to your project. If your project name is "Word2Vec for Text Data", the default container name is Word2VecforTextData (unless you change to a different name on Step 2, part 3).
+
+#Step 4. Get the notebook
