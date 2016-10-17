@@ -61,13 +61,11 @@ Blog: http://www.ibmbigdatahub.com/blog/spark-based-machine-learning-capturing-w
 
 >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/new-project.png"/>
 
-#Step 3. Get the data 
+#Step 3. Get the data into DSX 
 
-Get some tweets from December 23, 2014 from here: 
+1. Download some tweets from December 23rd [here](https://www.dropbox.com/sh/82rrk8di2nouf0x/AAAIMc6J9rWpu08UBLhLbHXEa?dl=0). **Note: there is no need to uncompress the file, just download the tweets.gz file to your lap top.**
 
-https://www.dropbox.com/sh/82rrk8di2nouf0x/AAAIMc6J9rWpu08UBLhLbHXEa?dl=0 
-
-Note: there is no need to uncompress the file, just download the tweets.gz file to your lap top.
+2. Load data into DSX
 
 #Step 4. Load the data into your object storage
 
