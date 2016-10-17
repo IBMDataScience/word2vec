@@ -79,9 +79,10 @@ Blog: http://www.ibmbigdatahub.com/blog/spark-based-machine-learning-capturing-w
 
 5. Once the file is loaded, click on Apply to add this file to your project.
 
- > You should see your tweets under the data assets list of your project. Your tweets are now loaded in your object storage in the container associated to your project. If your project name is "Word2Vec for Text Data", the default container name is Word2VecforTextData (unless you change to a different name on Step 2, part 3). 
-
  >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/apply-add-file.png"/>
+ 
+  > You should see your tweets under the data assets list of your project. Your tweets are now loaded in your object storage in the container associated to your project. If your project name is "Word2Vec for Text Data", the default container name is Word2VecforTextData (unless you change to a different name on Step 2, part 3). 
+ 
  >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/tweets-on-proj.png"/>
 
 #Step 4. Get the notebook
