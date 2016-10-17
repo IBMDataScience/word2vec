@@ -57,9 +57,9 @@ Blog: http://www.ibmbigdatahub.com/blog/spark-based-machine-learning-capturing-w
 
 3. Type a name for yout project. For instance, "Word2Vec for Text Data". A Spark service and an object storage will be automatically selected as well as a container. A container is a directory on the object storage. Click on Create.
 
- > You are now in your new project where you can create notebooks and data assets as well as add collaborators.
-
 >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/new-project.png"/>
+
+ > You are now in your new project where you can create notebooks and data assets as well as add collaborators.
 
 #Step 3. Get the data into DSX 
 
@@ -71,10 +71,9 @@ Blog: http://www.ibmbigdatahub.com/blog/spark-based-machine-learning-capturing-w
 
 >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/add-data-asset.png"/>
 
-4. Then click on the Add data file
+4. Click on the Add data file
 
 >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/add-file.png"/>
-
 
 5. Select the tweets.gz file from your lap top and click on open (or double-click the file)
 
