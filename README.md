@@ -27,15 +27,15 @@ Blog: http://www.ibmbigdatahub.com/blog/spark-based-machine-learning-capturing-w
 
  >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/confirmation-code.png"/>
 
-5. Then, on the next page fill in the corresponding fields and click “Create Account”
+5. Then, on the next page fill in the corresponding fields and click CREATE ACCOUNT 
 
  > <img src="https://github.com/ibmdataworks/datafirst/blob/master/appdeveloper/media/image3.png" width="624" height="300" />
 
-6. In the new page, write your email and click CONTINUE. 
+6. In the new page, write your email and click CONTINUE
 
  >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/enter-email.png"/>
 
-7. Write your recently generated password and click on SIGN IN.
+7. Write your recently generated password and click on SIGN IN
 
  >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/enter-password.png"/>
 
@@ -47,7 +47,7 @@ Blog: http://www.ibmbigdatahub.com/blog/spark-based-machine-learning-capturing-w
 
 #Step 2. Create a project 
 
-1. Click on the left hand side "hamburger" icon and then on My Projects to see a list of your projects. You should only see a default project.
+1. Click on the left hand side "hamburger" icon and then click on My Projects to see a list of your projects. You should only see a default project.
 
  >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/my-projects.png"/>
 
@@ -55,21 +55,21 @@ Blog: http://www.ibmbigdatahub.com/blog/spark-based-machine-learning-capturing-w
 
  >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/create-new-project.png"/>
 
-3. Type a name for yout project. For instance, "Word2Vec for Text Data". A Spark service and an object storage will be automatically selected as well as a container. A container is a directory on the object storage. Click on Create.
-
- >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/new-project.png"/>
+3. Type a name for your project. For instance, "Word2Vec for Text Data". A Spark service and an object storage will be automatically selected as well as a container with a defualt name. A container is a directory on the object storage. Click on Create.
 
  > You are now in your new project where you can create notebooks and data assets as well as add collaborators.
 
+ >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/new-project.png"/>
+
 #Step 3. Get the data into DSX 
 
-1. Download (without uncompressing) some tweets from [here](https://www.dropbox.com/sh/82rrk8di2nouf0x/AAAIMc6J9rWpu08UBLhLbHXEa?dl=0) to your lap top. The tweets.gz file contains a 10% sample (using Twitter decahose API) of a 15 minute batch of the public tweets from December 23rd. The size of this file is 116MB (compression ratio is about 10 to 1).
+1. Download (without uncompressing) some tweets from [here](https://www.dropbox.com/sh/82rrk8di2nouf0x/AAAIMc6J9rWpu08UBLhLbHXEa?dl=0) to your lap top. The `tweets.gz` file contains a 10% sample (using Twitter decahose API) of a 15 minute batch of the public tweets from December 23rd. The size of this compressed file is 116MB (compression ratio is about 10 to 1).
 
 2. Go to your recently created project on DSX and click on the add data assets + icon
 
  >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/add-data-asset.png"/>
 
-3. Click on the Add data file and select the tweets.gz file from your lap top and click on open
+3. Click on the Add file and select the tweets.gz file from your lap top and click on open
 
  >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/add-file.png"/>
 
@@ -77,8 +77,10 @@ Blog: http://www.ibmbigdatahub.com/blog/spark-based-machine-learning-capturing-w
 
  >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/data-loading.png"/>
 
- > Your tweets are now loaded in your object storage in the container associated to your project. If your project name is "Word2Vec for Text Data", the default container name is Word2VecforTextData (unless you change to a different name on Step 2, part 3).
- 
-5.  
+5. Once the file is loaded, click on Apply to add this file to your project.
+
+ > You should see your tweets under the data assets list of your project. Your tweets are now loaded in your object storage in the container associated to your project. If your project name is "Word2Vec for Text Data", the default container name is Word2VecforTextData (unless you change to a different name on Step 2, part 3). 
+
+ >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/apply-add-file.png"/>
 
 #Step 4. Get the notebook
