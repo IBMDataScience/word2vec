@@ -1,4 +1,6 @@
-# Hands on Lab - World of Watson, October 2016
+#Hands on Lab - World of Watson, October 2016
+
+ <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/w2v-ibm-design.png"/>
 
 Session Name: Building a Word2vec Model with Twitter Data Using the IBM Data Science Experience
 
@@ -6,7 +8,7 @@ Date: October 25, 2016, 4:00pm - 6:30pm
 
 Place: Las Vegas, Mandalay Bay - Bayside F - 06
 
-[Blog](http://www.ibmbigdatahub.com/blog/spark-based-machine-learning-capturing-word-meanings)
+Blog: http://www.ibmbigdatahub.com/blog/spark-based-machine-learning-capturing-word-meanings
 
 # Instructions:
 
@@ -37,3 +39,17 @@ Place: Las Vegas, Mandalay Bay - Bayside F - 06
  > You are now in the Data Science Experience. Depending on the plan you chose, your environment is automatically set up with at least one Apache Spark instance and at least 5 GB of object storage. From here you can create a new project, notebook, or connection. You can also explore any of the tutorials, videos, sample notebooks or articles in the community.
 
  > <img src="https://github.com/ibmdataworks/datafirst/blob/master/datascientist/media/DSX%20Landing.png">
+
+#Step 2. Get the data 
+
+Get some tweets from December 23, 2014 from here: 
+
+https://www.dropbox.com/sh/82rrk8di2nouf0x/AAAIMc6J9rWpu08UBLhLbHXEa?dl=0 
+
+Note: there is no need to uncompress the file, just download the tweets.gz file to your lap top.
+
+#Step 3. Load the data into your object storage
+
+#Step 4. Create a project
+
+#Step 5. Get my notebook from here
