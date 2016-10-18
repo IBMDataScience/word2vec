@@ -91,7 +91,11 @@ Blog: http://www.ibmbigdatahub.com/blog/spark-based-machine-learning-capturing-w
 
  >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/proj-with-tweets.png"/>
  
-2. Click on From URL (3rd tab), choose a name for your notebook (ex: "Spark-based ML to capture word meaning") and copy and paste this url **insert url here** into the Notebook URL rectangle. Then click Cretae Notebook on the lower right part of the screen.
+2. Click on From URL (3rd tab), choose a name for your notebook (ex: "Spark-based ML to capture word meaning"), copy and paste this url **https://github.com/IBMDataScience/word2vec/blob/master/Spark-based%20machine%20learning%20for%20word%20meanings.ipynb** into the Notebook URL rectangle and finally click on Create Notebook.
+
+ >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/create-notebook.png"/>
+ 
+ > You are now in your new notebook and te rest of the instructions are in thre.
 
 
 
