@@ -95,7 +95,7 @@ Blog: http://www.ibmbigdatahub.com/blog/spark-based-machine-learning-capturing-w
 
  >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/create-notebook.png"/>
  
- > You are now in your new notebook and te rest of the instructions are in thre.
+ > You are now in your new notebook and the rest of the instructions are in there.
 
 
 
