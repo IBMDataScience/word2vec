@@ -13,7 +13,7 @@ Blog: http://www.ibmbigdatahub.com/blog/spark-based-machine-learning-capturing-w
 # Instructions:
 
 #Step 1. Get on IBM Data Science Experience (DSX).
-##Create a BlueMix Account.
+##Create an account.
 
 1.  Go to [http://datascience.ibm.com/](http://datascience.ibm.com/)
 
