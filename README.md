@@ -98,5 +98,5 @@ Blog: http://www.ibmbigdatahub.com/blog/spark-based-machine-learning-capturing-w
  > You are now in your new notebook and the rest of the instructions are in there.
 
 
-** NOTE: to execute cells in notebooks select the cell and use Shift+enter **
+**NOTE: to execute cells in notebooks select the cell and use Shift+enter**
 
