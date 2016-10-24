@@ -100,3 +100,6 @@ Blog: http://www.ibmbigdatahub.com/blog/spark-based-machine-learning-capturing-w
 
 **NOTE: to execute cells in notebooks select the cell and use Shift+enter**
 
+--- 
+#### Help us make DSX great! [Go here to take a 5 question survey about using Data Science Experience](https://www.surveymonkey.com/r/XTNCY2F) for this lab.
+--- 
