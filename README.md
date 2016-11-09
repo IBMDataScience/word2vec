@@ -63,7 +63,7 @@ Blog: http://www.ibmbigdatahub.com/blog/spark-based-machine-learning-capturing-w
 
 #Step 3. Get the data into DSX 
 
-1. Download (without uncompressing) some tweets from [here](https://www.dropbox.com/sh/82rrk8di2nouf0x/AAAIMc6J9rWpu08UBLhLbHXEa?dl=0) to your lap top. The `tweets.gz` file contains a 10% sample (using Twitter decahose API) of a 15 minute batch of the public tweets from December 23rd. The size of this compressed file is 116MB (compression ratio is about 10 to 1).
+1. Download (without uncompressing) some tweets from [here](https://ibm.box.com/s/mn5cenc1m6vuqm8qdwf2ddzuc4jyvpd4) to your lap top. The `tweets.gz` file contains a 10% sample (using Twitter decahose API) of a 15 minute batch of the public tweets from December 23rd. The size of this compressed file is 116MB (compression ratio is about 10 to 1).
 
 2. Go to your recently created project on DSX and click on the add data assets + icon
 
