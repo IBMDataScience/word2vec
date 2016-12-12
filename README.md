@@ -8,23 +8,9 @@ Blog: http://www.ibmbigdatahub.com/blog/spark-based-machine-learning-capturing-w
 
 # Instructions:
 
-#Step 1. If you already have an account on IBM's Data Science Experience, go to step 2. If not, follow [this tutorial](https://github.com/IBMDataScience/getting-started) to create an account.
+#Step 1. If you already have an account on IBM's Data Science Experience, go to Step 2. If not, follow [this tutorial](https://github.com/IBMDataScience/getting-started) to create an account.
 
-#Step 2. Create a project 
-
-1. Click on the left hand side "hamburger" icon and then click on My Projects to see a list of your projects. You should only see a default project.
-
- >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/my-projects.png"/>
-
-2. Click on the create project icon on the top right of the project list. 
-
- >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/create-new-project.png"/>
-
-3. Type a name for your project. For instance, "Word2Vec for Text Data". A Spark service and an object storage will be automatically selected as well as a container with a defualt name. A container is a directory on the object storage. Click on Create.
-
- > You are now in your new project where you can create notebooks and data assets as well as add collaborators.
-
- >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/new-project.png"/>
+#Step 2. Create a project on DSX. For details on how to create a project, click [here](https://github.com/IBMDataScience/getting-started#step-2-create-a-project).
 
 #Step 3. Get the data into DSX 
 
