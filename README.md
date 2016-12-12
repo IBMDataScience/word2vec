@@ -1,4 +1,5 @@
-# Word2vec Models for Twitter Data (can be used with any text document too)
+# Word2vec Models for Twitter Data 
+## Same techniques can be applied to text documents, product reviews, etc...
 
 This is a tutorial to build Spark-based machine learning models for capturing word meanings. You can learn how to build a word2vec model using Twitter data on IBM's Data Science Experience using Apache Spark.
 
