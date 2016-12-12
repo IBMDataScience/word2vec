@@ -8,11 +8,11 @@ Blog: http://www.ibmbigdatahub.com/blog/spark-based-machine-learning-capturing-w
 
 # Instructions:
 
-#Step 1. If you already have an account on IBM's Data Science Experience, go to Step 2. If not, follow [this tutorial](https://github.com/IBMDataScience/getting-started) to create an account.
+##Step 1. If you already have an account on IBM's Data Science Experience, go to Step 2. If not, follow [this tutorial](https://github.com/IBMDataScience/getting-started) to create an account.
 
-#Step 2. Create a project on DSX. For details on how to create a project, click [here](https://github.com/IBMDataScience/getting-started#step-2-create-a-project).
+##Step 2. Create a project on DSX. For details on how to create a project, click [here](https://github.com/IBMDataScience/getting-started#step-2-create-a-project).
 
-#Step 3. Get the data into DSX 
+##Step 3. Get the data into DSX 
 
 1. Download (without uncompressing) some tweets from [here](https://ibm.box.com/s/mn5cenc1m6vuqm8qdwf2ddzuc4jyvpd4) to your lap top. The `tweets.gz` file contains a 10% sample (using Twitter decahose API) of a 15 minute batch of the public tweets from December 23rd. The size of this compressed file is 116MB (compression ratio is about 10 to 1).
 
@@ -50,7 +50,3 @@ Blog: http://www.ibmbigdatahub.com/blog/spark-based-machine-learning-capturing-w
 
 
 **NOTE: to execute cells in notebooks select the cell and use Shift+enter**
-
---- 
-#### Help us make DSX great! [Go here to take a 5 question survey about using Data Science Experience](https://www.surveymonkey.com/r/XTNCY2F) for this lab.
---- 
