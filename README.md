@@ -1,49 +1,14 @@
-#Hands on Lab - World of Watson, October 2016
+# Word2vec Models for Twitter Data (can be used with any text document too)
+
+This is a tutorial to build Spark-based machine learning models for capturing word meanings. You can learn how to build a word2vec model using Twitter data on IBM's Data Science Experience using Apache Spark.
 
  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/w2v-ibm-design.png"/>
-
-Session Name: Building a Word2vec Model with Twitter Data Using the IBM Data Science Experience
-
-Date: October 25, 2016, 4:00pm - 6:30pm
-
-Place: Las Vegas, Mandalay Bay - Bayside F - 06
 
 Blog: http://www.ibmbigdatahub.com/blog/spark-based-machine-learning-capturing-word-meanings
 
 # Instructions:
 
-#Step 1. Get on IBM Data Science Experience (DSX).
-##Create an account.
-
-1.  Go to [http://datascience.ibm.com/](http://datascience.ibm.com/)
-
-2.  Click the signup button on the top right
-
- > <img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/DSX Sign On.png">
-
-3. If you have a Bluemix account you can click continue with Bluemix credentials, otherwise click create your Bluemix account and enter your email. 
-
-4. You should get an email from "ibmacct" with your IBMid Confirmation code
-
- >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/confirmation-code.png"/>
-
-5. Then, on the next page fill in the corresponding fields and click CREATE ACCOUNT 
-
- > <img src="https://github.com/ibmdataworks/datafirst/blob/master/appdeveloper/media/image3.png" width="624" height="300" />
-
-6. In the new page, write your email and click CONTINUE
-
- >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/enter-email.png"/>
-
-7. Write your recently generated password and click on SIGN IN
-
- >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/enter-password.png"/>
-
-8. It will take a minute to create your account. When ready, click on Get Started.
-
- > You are now in the Data Science Experience landing page. Your environment is automatically set up with one Apache Spark instance and 5 GB of object storage. From here you can explore any of the tutorials, videos, sample notebooks, totorials or articles in the community.
-
->  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/landing.png"/>
+#Step 1. If you already have an account on IBM's Data Science Experience, go to step 2. If not, follow [this tutorial](https://github.com/IBMDataScience/getting-started) to create an account.
 
 #Step 2. Create a project 
 
