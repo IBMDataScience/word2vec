@@ -1,4 +1,4 @@
-# Spark-based machine learning models for capturing word meanings
+# Spark-based machine learning for capturing word meanings
 
 ## Data source: tweets
 ## Algorithms: Word2Vec, K-means, PCA
